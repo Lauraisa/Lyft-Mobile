@@ -11,6 +11,7 @@
   background-size: cover;
   background-attachment: fixed;
 }
+/*imagenes */
 .imglyft {
   margin-left:30%;
 }
@@ -21,6 +22,7 @@
   margin-left: auto;
   display: block;
 }
+
 .btn {
   margin-top: 13rem;
   border: 2px solid white;
@@ -35,6 +37,7 @@
   padding-left: 2rem;
   padding-right: 2rem;
 }
+/*boton de signup */
 #signup {
   margin-top: 3rem;
 }
