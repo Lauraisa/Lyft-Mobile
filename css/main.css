@@ -5,4 +5,43 @@
   background-repeat: no-repeat;
   height: 100vh;
 }
+.fondo {
+  background-image: url('../assets/img/fondo2.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.imglyft {
+  margin-left:30%;
+}
+.contLyft {
+  margin-top: 100px;
+}
+.contLyft1 {
+  margin-left: auto;
+  display: block;
+}
+.btn {
+  margin-top: 13rem;
+  border: 2px solid white;
+  line-height: bold;
+  color:white;
+}
+#bt {
+  margin-left: 8rem;
+}
+
+.container-flex-column {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+#signup {
+  margin-top: 3rem;
+}
+.bt-gly {
+  color:black;
+}
+#up {
+  margin-top: 13rem;
+}
 
